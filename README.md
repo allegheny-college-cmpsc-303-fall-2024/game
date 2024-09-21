@@ -20,7 +20,13 @@ The final deadline for all steps is October 22. Intermittent deadlines are as fo
 | [`docs/reflection.md`](docs/reflection.md) | Complete TODOs.                                              | 10/22       |
 |                                            | Presentations                                                | 10/22-10/24 |
 
-# Grading
+## Resources
+
+- [Class slides](https://drive.google.com/drive/folders/1nnPXaz3lpiarqAO2kBn2tA9wEFOimALW?usp=drive_link)
+- [Class repositories](https://github.com/orgs/allegheny-college-cmpsc-303-fall-2024/repositories?q=visibility%3Apublic+archived%3Afalse)
+- [CS50 AI | Search](https://cs50.harvard.edu/ai/2024/weeks/0/)
+
+## Grading
 
 > [!NOTE]
 >
@@ -30,10 +36,10 @@ To receive a satisfactory grade on this assignment, you should complete all of t
 
 - [ ] Complete all TODOs in `docs/plan.md`
 
-- [ ] In the `build` directory, create a game that either allows the player to compete with the computer, or shows the computer finding an optimal solution to a single-player game. This solution should involve the use of a search algorithm. 
-- [ ] Have some output to show what is happening in the game. At a minimum, the game should output text to Terminal.
+- [ ] In the `build` directory, create a game that either allows the player to compete with your program, or shows your program finding an optimal solution to a single-player game. This solution should involve the use of a search algorithm. 
+- [ ] The program's output should give a clear idea of game play. You can make an animated gameboard or screen. At a minimum, the game should output text to Terminal.
   - When you run `python build/main.py` the game should play smoothly, including clear instructions for the user as appropriate. 
-- [ ] Use one technique that was shown or mentioned in class, butnot explicitly tested in any of the challenges. This is so that you can learn how to research and deploy code techniques on your own. These techniques can include:
+- [ ] Use one technique that was shown or mentioned in class, butnot explicitly tested in any of the challenges. This is so that you can learn how to research and deploy code techniques on your own. These techniques include:
   - A* search
   - MiniMax optimization/alpha-beta pruning
   - Animating an interactive gameboard in `pygame` or another Python library. 

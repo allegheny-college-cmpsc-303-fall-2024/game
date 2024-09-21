@@ -2,8 +2,4 @@
 
 TODO: Write 200 + words about your goals for your game and whether you met them. 
 
-Include an assessment of
-
-- Techniques you used so an intelligent agent plays the game optimally either alone or against the user
-- The gameplay experience for hte user. 
-- How you implemented A* search, minimax optimzation, and/or an interactive gameboard. 
+Look at each of your goals for `plan.md` and write about whether you met the goal, how you met the goal, and how you could improve your program in the future. 

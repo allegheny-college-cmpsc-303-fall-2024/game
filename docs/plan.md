@@ -2,7 +2,7 @@
 
 ## Brainstorm
 
-TODO: Come up with 2-3 possible games you might implement for this assignment. For each one, draw a diagram that shows an initial state and all possible moves (`actions(s), result(s,a) for each action`) for the first several turns of the game. Then, write a few sentences on how you would implement the game in Python. 
+TODO: Come up with 2-3 possible games you might implement for this assignment. For each one, draw a diagram that shows an initial state and all possible moves for the first several turns of the game, given this initial state (`actions(s), result(s,a) for each action`) . Then, write a few sentences on how you might implement the game in Python. 
 
 ## Goals
 
