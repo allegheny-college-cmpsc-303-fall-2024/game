@@ -16,7 +16,7 @@ The final deadline for all steps is October 22. Intermittent deadlines are as fo
 | ------------------------------------------ | ------------------------------------------------------------ | ----------- |
 | [`docs/plan.md`](docs/plan.md)             | Complete TODOs                                               | 9/30        |
 |                                            | Sign up for a presentation slot at [this link](https://docs.google.com/spreadsheets/d/1GzT5MQK5CpK2jyGcnZU0H9MJ0zwiMazMtKAd_yxZZWs/edit?usp=sharing) | 9/30        |
-| [`build/main.py`](build/main.py)           | Create your working game in this file. (You are welcome to add additional files in the `build` directory and use them in `main.py` as needed) | 10/21       |
+| [`build/main.py`](build/main.py)           | Create your working game in this file. (You are welcome to add additional files in the `build` directory and use them in `main.py` as needed) | 10/17       |
 | [`docs/reflection.md`](docs/reflection.md) | Complete TODOs.                                              | 10/21       |
 |                                            | Presentations                                                | 10/22-10/24 |
 
