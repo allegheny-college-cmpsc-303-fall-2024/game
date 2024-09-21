@@ -1,4 +1,4 @@
-# Game
+# Project 1:  Game
 
 For your first self-directed project in Artificial Intelligence, you will create a game of your choosing. You can invent a game, or go with a classic.
 
